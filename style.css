@@ -1,3 +1,9 @@
 body{
     background-color: palegoldenrod;
 }
+.tst{
+    height: 300px;
+    width: 200px;
+    background-color: palevioletred;
+    position: fixed;
+}
